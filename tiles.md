@@ -4,14 +4,14 @@
 Follow these steps to run it in local mode, local mode means it allows the dashboard to be developed,
 without requiring a full Bluemix Atlas development env.
 
-```bash
+```
 git clone git@github.ibm.com:bluemix-mobile-services/bms-mobile-service-tab.git
 cd bms-mobile-service-tab
 ```
 
 Once you have a copy of bms-mobile-services in your local development environment you can then pull down the specific dependencies.
 
-```bash
+```
 npm install
 npm install -g grunt-cli
 grunt build                 ``` Use this if you want to minimize js for production
@@ -19,11 +19,11 @@ grunt                       ``` Use this if you want meaningful debug messages
 ```
 
 Once all the dependencies have been install and the build has been completed, we can then run the server.
-```bash
+```
 grunt serve:local
 ```
 You should now see the following console, with the server running.
-```bash
+```
 
 [2016-03-08 21:46:35.409] [INFO] [default] -  ____  _    _   _ _____ __  __ _____  __
 [2016-03-08 21:46:35.415] [INFO] [default] - | __ )| |  | | | | ____|  \/  |_ _\ \/ /
