@@ -1,50 +1,9 @@
 # Sample Title
 ## Sample Subtitle
 
-Follow these steps to run it in local mode, local mode means it allows the dashboard to be developed,
-without requiring a full Bluemix Atlas development env.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nulla metus, ornare at elit ut, lobortis vehicula nisi. Sed sagittis massa et molestie gravida. Proin ornare blandit accumsan. Suspendisse vel dolor tempus, finibus dui in, imperdiet ante. Curabitur facilisis pharetra libero, ut sagittis tellus posuere quis. Nullam vestibulum ullamcorper dolor vitae congue. Nullam tempor ut tortor at rutrum. Morbi a facilisis lorem. Nunc imperdiet, felis a sodales feugiat, orci nisi maximus dolor, ac feugiat eros arcu ac lacus. Aenean ac volutpat arcu, quis commodo nulla. Morbi quis mi posuere, laoreet leo quis, posuere eros. Mauris gravida leo quis neque interdum mollis. Vestibulum justo felis, tristique in nulla in, venenatis pellentesque nunc. Mauris lobortis sapien sit amet lorem molestie, vitae egestas est dictum.
 
-```
-git clone git@github.ibm.com:bluemix-mobile-services/bms-mobile-service-tab.git
-cd bms-mobile-service-tab
-```
+Donec non tristique nulla, nec cursus nulla. Vestibulum vitae est enim. In elementum porttitor nulla, ac blandit lacus scelerisque et. Pellentesque volutpat metus pretium rhoncus posuere. Cras fringilla leo quis augue sodales dictum. Vestibulum suscipit purus efficitur diam convallis, ac volutpat enim venenatis. Mauris pellentesque consequat iaculis. Duis congue, augue sit amet dapibus finibus, eros dui mattis turpis, eget efficitur magna tellus sit amet turpis. Integer a quam ex. Sed lacinia congue sapien, ac pharetra nibh fringilla sed. In facilisis ultricies urna pellentesque euismod. Nam vulputate iaculis dui, in ultricies lorem posuere eu.
 
-Once you have a copy of bms-mobile-services in your local development environment you can then pull down the specific dependencies.
-
-```
-npm install
-npm install -g grunt-cli
-grunt build                 ``` Use this if you want to minimize js for production
-grunt                       ``` Use this if you want meaningful debug messages
-```
-
-Once all the dependencies have been install and the build has been completed, we can then run the server.
-```
-grunt serve:local
-```
-You should now see the following console, with the server running.
-```
-
-[2016-03-08 21:46:35.409] [INFO] [default] -  ____  _    _   _ _____ __  __ _____  __
-[2016-03-08 21:46:35.415] [INFO] [default] - | __ )| |  | | | | ____|  \/  |_ _\ \/ /
-[2016-03-08 21:46:35.416] [INFO] [default] - |  _ \| |  | | | |  _| | |\/| || | \  /
-[2016-03-08 21:46:35.416] [INFO] [default] - | |_) | |__| |_| | |___| |  | || | /  \
-[2016-03-08 21:46:35.416] [INFO] [default] - |____/|_____\___/|_____|_|  |_|___/_/\_\
-[2016-03-08 21:46:35.417] [INFO] [default] -
-[2016-03-08 21:46:35.417] [INFO] [default] - *** bms-mobileappbuilder-dashboard ***
-[2016-03-08 21:46:35.417] [INFO] [default] - Version: 0.0.1
-[2016-03-08 21:46:35.417] [INFO] [default] - Description: IBM Mobile App Builder for Bluemix
-[2016-03-08 21:46:35.417] [INFO] [default] -
-[2016-03-08 21:46:35.417] [INFO] [default] - Running in Local Mode
-
-```
-
-## Debugging
-To prepare the client side packages for debugging use the `grunt` command on its own, this will not perform a minification step
-and will allow you to see the client side errors and set break points in your browser.
-
-WebStorm is generally used for Node server side debugging. You need to configure your WebStorm configuration to include all the environment variables
-that are stored in the `startbm.sh`
-
-Once you run Node in bug mode you can set debug breakpoints on the server side code.
+In ornare nibh eget nunc varius, nec lobortis sapien finibus. Integer accumsan cursus auctor. Praesent rhoncus mauris at dictum tristique. Vestibulum pharetra sollicitudin fermentum. Pellentesque non cursus lacus. Donec dictum ipsum at ante consequat, id imperdiet mi viverra. Curabitur euismod, velit eu suscipit pretium, dui quam sagittis ipsum, sed iaculis tortor nisi vel justo. Nunc accumsan ultrices molestie. Nunc ultricies metus enim, at bibendum nisl venenatis ut. Etiam eget eleifend mauris.
 
