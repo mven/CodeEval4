@@ -1,7 +1,7 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Button text change",
+		"text" : "Try this out",
 		"link": "http://bluemix.net",
 		"altText" : "IBM's Mobile App Builders"
 	},
