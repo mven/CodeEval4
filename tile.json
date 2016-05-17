@@ -1,11 +1,11 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Try it out",
-		"link": "http://ibm.com",
-		"altText" : "Try out IBM's Mobile App Builder"
+		"text" : "Sample This",
+		"link": "http://bluemix.net",
+		"altText" : "IBM's Mobile App Builders"
 	},
 	"video" : "https://youtu.be/1JRjzNm4cUc",
-	"image" : "http://new.thoughtsoncloud.com/wp-content/uploads/2015/09/bluemix_watson_twilio_heath_questions.png",
-	"time" : "15 min"
+	"image" : "https://c1.staticflickr.com/1/337/19292650660_d4a829f9a2.jpg",
+	"time" : "10 min"
 }
