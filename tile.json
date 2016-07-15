@@ -3,7 +3,7 @@
 		"type": "url",
 		"text" : "Try this out",
 		"link": "http://bluemix.net",
-		"blahblah" : "IBM's Mobile App Builders"
+		"description" : "IBM's Mobile App Builders"
 	},
 	"image" : "https://raw.githubusercontent.com/mven/CodeEval/master/mobile.png",
 	"icon" : "https://raw.githubusercontent.com/mven/CodeEval/master/VisualRecognition.svg",
