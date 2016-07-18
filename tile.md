@@ -1,3 +1,4 @@
 # Create Your First Project
+## Get started with ease
 
-Donec nulla non metus auctor. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Choose a template that best matches your use and customize the app using IBM Mobile App Builder. Alternatively, download the code and use it as a starting point.
