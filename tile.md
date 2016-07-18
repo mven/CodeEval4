@@ -1,4 +1,4 @@
-# Create Your First Project
-## Get started with ease
+# New Data Features
+## Enhance your app with more data features
 
-Choose a template that best matches your use and customize the app using IBM Mobile App Builder. Alternatively, download the code and use it as a starting point.
+Spend more time on your data model, less time capacity planning. Quickly add a data service to your project to enhance your application.
