@@ -1,9 +1,9 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Try this out",
+		"text" : "Create Project",
 		"link": "http://bluemix.net",
-		"description" : "IBM's Mobile App Builders"
+		"description" : "Create your first Project"
 	},
 	"image" : "https://raw.githubusercontent.com/mven/CodeEval/master/mobile.png",
 	"icon" : "https://raw.githubusercontent.com/mven/CodeEval/master/VisualRecognition.svg",
