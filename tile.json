@@ -5,7 +5,7 @@
 		"link": "http://bluemix.net",
 		"description" : "Create your first Project"
 	},
-	"image" : "https://raw.githubusercontent.com/mven/CodeEval/master/mobile.png",
-	"icon" : "https://raw.githubusercontent.com/mven/CodeEval/master/VisualRecognition.svg",
+	"image" : "https://raw.githubusercontent.com/mven/CodeEval/master/teal.png",
+	"icon" : "https://raw.githubusercontent.com/mven/CodeEval/master/teal-icon.svg",
 	"time" : "10 min"
 }
