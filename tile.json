@@ -1,10 +1,10 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Create Project",
+		"text" : "Add a Data Service",
 		"link": "http://bluemix.net",
-		"description" : "Create your first Project"
+		"description" : "Add a new data service to your project"
 	},
-	"image" : "https://raw.githubusercontent.com/mven/CodeEval/c2b39377e1f96a17e5493de4cbf375d6072fdd66/teal.png",
-	"icon" : "https://raw.githubusercontent.com/mven/CodeEval/master/teal-icon.svg"
+	"image" : "https://raw.githubusercontent.com/mven/CodeEval4/049cc26b6cea9f6aa650ac3e1124aa2e4e5bbb57/yellow.png",
+	"icon" : "https://raw.githubusercontent.com/mven/CodeEval4/master/yellow-icon.svg"
 }
